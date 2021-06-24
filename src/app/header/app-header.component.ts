@@ -5,5 +5,5 @@ import { Component } from "@angular/core";
     templateUrl:'app-header.component.html'
 })
 export class AppHeaderComponent{
- readonly imgUrl ='https://cdn.hubworks.com/ssoprod/202101271233/assets/images/icons/hubworks_white_bk.png';
+ readonly imgUrl ='https://cdn.xyz.com/ssoprod/202101271233/assets/images/icons/hubworks_white_bk.png';
 }
